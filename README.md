@@ -4,4 +4,5 @@
 Brought to you by **Voxelapp Software** – empowering users with practical, open-source tools for everyday tech needs.
 
 *Based on a reimagined version of BATTinfo OPEN: https://github.com/bladestech/BATTinfo-OPEN*
+
 *While it doesn't share the Unlicense licence, it is conceptually very similar with more focus on powershell commands!*
