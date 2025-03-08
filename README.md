@@ -6,3 +6,4 @@ Brought to you by **Voxelapp Software** – empowering users with practical, ope
 *Based on a reimagined version of BATTinfo OPEN: https://github.com/bladestech/BATTinfo-OPEN*
 
 *While it doesn't share the Unlicense licence, it is conceptually very similar with more focus on powershell commands!*
+![Logo maker project (14)](https://github.com/user-attachments/assets/e89c3a2e-77a9-4a6a-a7ea-35a01f60b97e)
