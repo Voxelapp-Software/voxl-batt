@@ -3,7 +3,7 @@
 
 ![Logo maker project (14)](https://github.com/user-attachments/assets/e89c3a2e-77a9-4a6a-a7ea-35a01f60b97e)
 
-Brought to you by **Voxelapp Software** – empowering users with practical, open-source tools for everyday tech needs.
+## Brought to you by **Voxelapp Software** – empowering users with practical, open-source tools for everyday tech needs.
 
 *Based on a reimagined version of BATTinfo OPEN: https://github.com/bladestech/BATTinfo-OPEN*
 
