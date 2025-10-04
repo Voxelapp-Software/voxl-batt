@@ -19,4 +19,4 @@ Currently, this project needs a new maintainer. Responsibilities include:
 - Managing issues
 - Planning future releases
 
-If you're interested, please open an issue or contact me directly via GitHub.
+If you're interested, please open an issue or contact us directly via GitHub.
